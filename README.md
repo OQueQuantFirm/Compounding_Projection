@@ -1,3 +1,8 @@
+
+<img width="942" alt="Screenshot 2023-10-24 at 10 28 11" src="https://github.com/OQueQuantFirm/Compounding_Projection/assets/147313218/230d233a-b47b-4734-a9c3-1e9b89224181">
+
+
+
 ### Installation Guide for Windows:
 
 1. **Clone the Repository:**
